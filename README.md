@@ -108,7 +108,7 @@ Additional operability comes from:
 
 ## Wireframes
 - [Wireframe for functionality and elements](https://www.behance.net/gallery/105110359/ScanBuy-mobile-app?tracking_source=search_projects_recommended%7Cmap%20app)
-- [Wireframe fro Desktop UI](https://www.behance.net/gallery/77794611/Find-Vehicle-Inspections-Center?tracking_source=search_projects_recommended%7Cmap%20view%20program%20)
+- [Wireframe for Desktop UI](https://www.behance.net/gallery/77794611/Find-Vehicle-Inspections-Center?tracking_source=search_projects_recommended%7Cmap%20view%20program%20)
 - [Wireframe 1 for mobile style](https://www.behance.net/gallery/117354953/On-demand-service-mobile-app?tracking_source=search_projects_recommended%7Cmap+app)
 - [Wireframe 2 for mobile style](https://www.behance.net/gallery/106091453/Parking-App?tracking_source=search_projects_recommended%7Cmap%20app)
 - [Wireframe 3 for mobile style](https://www.behance.net/gallery/120271463/Apartment-Search-App-Roomates-Oriented?tracking_source=search_projects_recommended%7Cmap%20app)
