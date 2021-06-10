@@ -147,7 +147,7 @@ Additional operability comes from:
 - Check if photo is UPC
 - Retrieve and store UPC data
 - Build out database and relationships
-- Python ba
+- Python backend
 
 ## Code Snippet
 
