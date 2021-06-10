@@ -1,10 +1,9 @@
-# TITLE
+# PicLocApp
 
 ## Project Links
 
-- [REPO](https://github.com/squirrellypenguin/projectapp)
-- [LIVE](https://rg2g.netlify.app/)
-
+- [Frontend Repo](https://github.com/squirrellypenguin/capstone)
+- [Backend Repo](https://github.com/squirrellypenguin/manyruby)
 ## Project Description
 
 Full Stack App which enables users to upload and tag pictures and automagically add gps based on EXIF data.  The uploads are stored and then can me displayed on a dynamic map overlay.  The map overlay will display the user location anda photo locations from the db.  The vision is to allow crowd sourcing of grocery store/donation items similar to [Basket](https://basket.com/).
@@ -148,7 +147,7 @@ Additional operability comes from:
 - Check if photo is UPC
 - Retrieve and store UPC data
 - Build out database and relationships
-
+- Python ba
 
 ## Code Snippet
 
