@@ -59,7 +59,7 @@ The backend needs to receive a POST of an photo.
 	1. The EXIF data needs to be found. The GEMS that parse these dictionaries are: 
 		* [EXIF](https://github.com/tonytonyjan/exif) is the OG.
 		* [exiftool.rb](https://github.com/exiftool-rb/exiftool.rb) implmented in pure Ruby.
-		* [EXIF Reader]([https://github.com/remvee/exifr) YA-EXIF parser library.
+		* [EXIF Reader](https://github.com/remvee/exifr) YA-EXIF parser library.
 	2. Image Storage:
 		* [Cloudinary SDK](https://cloudinary.com/documentation/rails_integration) provides the ability to process and upload the image to this CDN
 
