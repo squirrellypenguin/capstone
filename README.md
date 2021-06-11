@@ -51,10 +51,13 @@ The database will likely have three Models when fully deployed.
 
 ### Backend
 
+Currently have django backend serving a similar API connected to cloudinary and reading exif data.
+
 The test environment is Ruby (3.0.1) and Rails (>6).  The backend here will be provide an API that provides CRUD routes to the aforementioned databases.  Furthermore, it will handle some basic image processing.  
 
-The backend needs to receive a POST of an photo.
-
+- The backend needs to receive a POST of an photo.
+	* [Paperclip Library for attachments](https://github.com/thoughtbot/paperclip)
+	
 - Image workflow:
 	1. The EXIF data needs to be found. The GEMS that parse these dictionaries are: 
 		* [EXIF](https://github.com/tonytonyjan/exif) is the OG.
